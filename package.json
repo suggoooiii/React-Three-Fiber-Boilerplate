@@ -18,8 +18,12 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-scripts": "5.0.1",
+<<<<<<< HEAD
     "three": "0.145.0"
 >>>>>>> b612323 (updates)
+=======
+    "three": "0.148.0"
+>>>>>>> 8cc95f1 (updates)
   },
   "scripts": {
     "start": "r3f-pack start",
