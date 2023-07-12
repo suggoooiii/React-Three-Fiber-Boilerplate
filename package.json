@@ -18,6 +18,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
 <<<<<<< HEAD
     "three": "0.145.0"
@@ -27,6 +28,9 @@
 >>>>>>> 8cc95f1 (updates)
 =======
     "react-scripts": "^5.0.1",
+=======
+    "react-scripts": "5.0.1",
+>>>>>>> d0bcb9b (updates)
     "three": "0.154.0"
 >>>>>>> 8caed93 (updates)
   },
